@@ -1,0 +1,6 @@
+	0	                       0
+0	Total Months	               8.600000e+01
+1	Total	                       3.838258e+07
+2	Average Change	              -2.315118e+03
+3	Greatest Increase in Profits   1.926159e+06
+4	Greatest Decrease in Profits  -2.196167e+06
